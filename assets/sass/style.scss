@@ -173,7 +173,7 @@ body {
 						font-size: 14px;
 						font-weight: 600;
 						color: white;
-						z-index: 2;
+						z-index: 1;
 						cursor: pointer;
 
 						&:hover {
@@ -186,6 +186,7 @@ body {
 						font-weight: 500;
 						color: white;
 						line-height: 18px;
+						z-index: 1;
 					}
 
 					span {
@@ -194,6 +195,7 @@ body {
 						color: white;
 						line-height: 18px;
 						margin-top: 12px;
+						z-index: 2;
 					}
 				}
 
